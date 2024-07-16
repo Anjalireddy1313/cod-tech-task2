@@ -30,5 +30,6 @@ JAVASCRIPT
 OpenWeatherMap API
 
 
+<img width="1024" alt="Screenshot 2024-07-16 at 19 48 03" src="https://github.com/user-attachments/assets/e127358c-2142-4e14-8e8b-bd6596892af5">
 
 
